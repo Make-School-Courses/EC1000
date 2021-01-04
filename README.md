@@ -103,10 +103,10 @@ By the end of the course, you will be able to ...
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1: Pitch](makeschool.com)                      |  Tue, Oct 15  |  Tue, Oct 22 | 
-| [Assignment 2: Analysis](makeschool.com)                   |  day, Date    |  day, Date   |
-| [Assignment 3: Discussion](makeschool.com)                     |  day, Date    |  day, Date   |
-| [Assignment 4: Essay](makeschool.com)                      |  day, Date    |  day, Date   | 
+| [Assignment 1: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, Oct 15  |  Tue, Oct 22 | 
+| [Assignment 2: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  day, Date    |  day, Date   |
+| [Assignment 3: Discussion](https://docs.google.com/document/d/1GKo1AsjJKJcFg3BbmUOu3JyytLrToU6xae9PmFuKg3o/edit?usp=sharing)|  day, Date    |  day, Date   |
+| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  day, Date    |  day, Date   | 
 
 
 ## Class Assignments
