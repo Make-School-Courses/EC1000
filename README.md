@@ -49,55 +49,54 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |          Assigned Class Work         |
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | Intro|  https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p | 
-|  2 |  Thu, Jan 21               | What is Communications| https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p |
-|  3 |  Tue, Jan 26               | [Lesson 4] |
-|  4 |  Wed, Jan 27               | [Lesson 3] |
-|  5 |  Thu, Jan 28               | [Lesson 5] |
-|  6 |  Tue, Feb 2                | [Lesson 7] |
-|  7 |  Wed, Feb 3                | [Lesson 5] |
-|  8 |  Thu, Feb 4                | [Lesson 8] |
-|  9 |  Tue, Feb 9                | [Lesson 10] |
-| 10 |  Wed, Feb 10               | [Lesson 7] |
-| 11 |  Thu, Feb 11               | [Lesson 11] |
-| 12 |  Tue, Feb 16               | [Lesson 13] |
-| 13 |  Wed, Feb 17               | [Lesson 9] |
-| 14 |  Thu, Feb 18               | [Lesson 14] |
-| 15 |  Tue, Feb 23               | [Lesson 2] |
-| 16 |  Wed, Feb 24               | [Lesson 11] |
-| 17 |  Thu, Feb 25               | [Lesson 3] |
-| 18 |  Tue, Mar 2                | [Lesson 5] |
-| 19 |  Wed, Mar 3                | [Lesson 5] |
-| 20 |  Thu, Mar 4                | [Lesson 6] |
+|  1 |  Wed, Jan 20               | [Intro] https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p | 
+|  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
+|  3 |  Tue, Jan 26               | [Why Do We Communicate?] (https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
+|  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435)] |
+|  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
+|  6 |  Tue, Feb 2                | [A Picture Paints a Thousand Words](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
+|  7 |  Wed, Feb 3                | [What You See is What You Get (or not)](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
+|  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
+|  9 |  Tue, Feb 9                | [Who am I?](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
+| 10 |  Wed, Feb 10               | [Us vs Them](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
+| 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
+| 12 |  Tue, Feb 16               | [Job Interview Prep I](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
+| 13 |  Wed, Feb 17               | [Job Interview Prep II](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
+| 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
+| 15 |  Tue, Feb 23               | [Class & Race in Tech](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
+| 16 |  Wed, Feb 24               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293)  |
+| 17 |  Thu, Feb 25               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
+| 18 |  Tue, Mar 2                | [Varying Perspectives](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
+| 19 |  Wed, Mar 3                | [Pitch Perfect](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
+| 20 |  Thu, Mar 4                | [Pitch Perfect II](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
 | -  |  Tue, Mar 9                | **No Class - Spring Break** |
 | -  |  Wed, Mar 10               | **No Class - Spring Break** |
 | -  |  Thu, Mar 11               | **No Class - Spring Break** |
-| 21 |  Tue, Mar 16               | [Lesson 8] |
-| 22 |  Wed, Mar 17               | [Lesson 8] |
-| 23 |  Thu, Mar 18               | [Lesson 9] |
-| 24 |  Tue, Mar 23               | [Lesson 11] |
-| 25 |  Wed, Mar 24               | [Lesson 11] 
-| 26 |  Thu, Mar 25               | [Lesson 12] |
-| 27 |  Tue, Mar 30               | [Lesson 14] |
+| 21 |  Tue, Mar 16               | [The Art of Persuasion](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
+| 22 |  Wed, Mar 17               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
+| 23 |  Thu, Mar 18               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
+| 24 |  Tue, Mar 23               | [You Had me at Hello](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
+| 25 |  Wed, Mar 24               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184)| 
+| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
+| 27 |  Tue, Mar 30               | [Tackling the Essay](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
 | -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
-| 28 |  Tue, Apr 6                | [Lesson 2] |
-| 29 |  Wed, Apr 7                | [Lesson 2] |
-| 30 |  Thu, Apr 8                | [Lesson 3] |
-| 31 |  Tue, Apr 13               | [Lesson 5] |
-| 32 |  Wed, Apr 14               | [Lesson 5] |
-| 33 |  Thu, Apr 15               | [Lesson 6] |
-| 34 |  Tue, Apr 20               | [Lesson 8] |
-| 35 |  Wed, Apr 21               | [Lesson 8] |
-| 36 |  Thu, Apr 22               | [Lesson 9] |
-| 37 |  Tue, Apr 27               | [Lesson 11] |
-| 38 |  Wed, Apr 28               | [Lesson 11] |
-| 39 |  Thu, Apr 29               | [Lesson 12] |
-| 40 |  Tue, May 4                | [Lesson 14] |
-| 41 |  Wed, May 5                | [Lesson 14] |
-| 42 |  Thu, May 6                | [Lesson 1]  |
-| 43 |  Tue, May 11               | [Lesson 1] |
-| 44 |  Wed, May 12               | Final Exam/Presentations |
+| 28 |  Tue, Apr 6                | [I Say, They Say](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89)  |
+| 29 |  Wed, Apr 7                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
+| 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
+| 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
+| 32 |  Wed, Apr 14               | [Gender in Tech](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
+| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
+| 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
+| 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
+| 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
+| 37 |  Tue, Apr 27               | [TBD] |
+| 38 |  Wed, Apr 28               | [TBD] |
+| 39 |  Thu, Apr 29               | [TBD] |
+| 40 |  Tue, May 4                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 41 |  Wed, May 5                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 42 |  Thu, May 6                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)]  |
+| 43 |  Tue, May 11               | Final Submissions|
 
 ## Assignment Schedule 
 
