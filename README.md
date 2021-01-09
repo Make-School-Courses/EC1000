@@ -49,8 +49,8 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |          Assigned Class Work         |
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | Intro (https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p)| 
-|  2 |  Thu, Jan 21               | What is Communications (https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
+|  1 |  Wed, Jan 20               | Intro|  https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p | 
+|  2 |  Thu, Jan 21               | What is Communications| https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p |
 |  3 |  Tue, Jan 26               | [Lesson 4] |
 |  4 |  Wed, Jan 27               | [Lesson 3] |
 |  5 |  Thu, Jan 28               | [Lesson 5] |
