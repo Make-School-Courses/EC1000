@@ -49,10 +49,10 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |          Assigned Class Work         |
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | [Intro] https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p | 
+|  1 |  Wed, Jan 20               | [Intro](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | 
 |  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
-|  3 |  Tue, Jan 26               | [Why Do We Communicate?] (https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
-|  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435)] |
+|  3 |  Tue, Jan 26               | [Why Do We Communicate?](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
+|  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  6 |  Tue, Feb 2                | [A Picture Paints a Thousand Words](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
 |  7 |  Wed, Feb 3                | [What You See is What You Get (or not)](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
