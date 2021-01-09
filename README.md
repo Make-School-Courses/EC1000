@@ -93,9 +93,9 @@ By the end of the course, you will be able to ...
 | 37 |  Tue, Apr 27               | [TBD] |
 | 38 |  Wed, Apr 28               | [TBD] |
 | 39 |  Thu, Apr 29               | [TBD] |
-| 40 |  Tue, May 4                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 41 |  Wed, May 5                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 42 |  Thu, May 6                | [Alls Well that Engs Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)]  |
+| 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 41 |  Wed, May 5                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |
 | 43 |  Tue, May 11               | Final Submissions|
 
 ## Assignment Schedule 
