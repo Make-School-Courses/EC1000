@@ -10,7 +10,7 @@
 
 ## Course Description
 
-This course provides essential training in analyzing and creating poly-modal forms of written, oral, digital, and visual communication. You will learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications (including the digital portfolio and an academic essay) for different potential audiences. Emphasizing the conventions of reflective and critical modes of writing and speaking, this course prepares you for communicative success in their college careers and beyond. 
+This course provides essential training in analyzing and creating poly-modal forms of written, oral, digital, and visual communication. You will learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications (including the digital portfolio and an academic essay) for different potential audiences. Emphasizing the conventions of reflective and critical modes of writing and speaking, this course prepares you for communicative success in their college careers and beyond.
 
 **Course Specifics*
 
@@ -20,7 +20,7 @@ This platform will be used for Q&As during check-in activities and burning quest
 
 My Personal Slack: @reginayoong
 
-If you have questions your classmates and TA (@LaurenDutton) have no answers to, e.g., “Am I on track to pass the course?” and/or emergency requests, e.g., “I have to leave class because of a fire.” DM me on slack.
+If you have questions your classmates and TA (@) have no answers to, e.g., “Am I on track to pass the course?” and/or emergency requests, e.g., “I have to leave class because of a fire.” DM me on slack.
 
 You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally.
 
@@ -28,15 +28,15 @@ My Email: regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours. 
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours.
 
 ## Learning Outcomes
 
 By the end of the course, you will be able to ...
 
-1.  Demonstrate the processes and products of critical reading, thinking, speaking, and writing; 
-1.  Analyze a range of texts and media (oral, visual, written, and performative) across disciplines and across a range of rhetorical modes; 
-1.  Create effective written texts and oral presentations appropriate to topic, purpose, and audience; 
+1.  Demonstrate the processes and products of critical reading, thinking, speaking, and writing;
+1.  Analyze a range of texts and media (oral, visual, written, and performative) across disciplines and across a range of rhetorical modes;
+1.  Create effective written texts and oral presentations appropriate to topic, purpose, and audience;
 1.  Comprehend how communication shapes and is shaped by difference (including but not limited to categories such as race, gender, sexuality, age, and class);
 1.  Retrieve, interpret, and apply source material; use proper citation and documentation.
 
@@ -49,23 +49,23 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |          Assigned Class Work         |
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
-|  1 |  Wed, Jan 20               | [Intro](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | 
-|  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
+|  1 |  Wed, Jan 20               | [Intro](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
+|  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | Blog Post 1 |
 |  3 |  Tue, Jan 26               | [Why Do We Communicate?](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
-|  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
+|  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) | Blog Post 2 |
 |  6 |  Tue, Feb 2                | [A Picture Paints a Thousand Words](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
 |  7 |  Wed, Feb 3                | [What You See is What You Get (or not)](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
-|  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
+|  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |  Blog Post 3 |
 |  9 |  Tue, Feb 9                | [Who am I?](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
 | 10 |  Wed, Feb 10               | [Us vs Them](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
-| 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
+| 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |  Blog Post 4 |
 | 12 |  Tue, Feb 16               | [Job Interview Prep I](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
 | 13 |  Wed, Feb 17               | [Job Interview Prep II](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
-| 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
+| 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |  Blog Post 5 |
 | 15 |  Tue, Feb 23               | [Class & Race in Tech](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
 | 16 |  Wed, Feb 24               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293)  |
-| 17 |  Thu, Feb 25               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
+| 17 |  Thu, Feb 25               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |  Blog Post 6 |
 | 18 |  Tue, Mar 2                | [Varying Perspectives](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
 | 19 |  Wed, Mar 3                | [Pitch Perfect](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
 | 20 |  Thu, Mar 4                | [Pitch Perfect II](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
@@ -76,8 +76,8 @@ By the end of the course, you will be able to ...
 | 22 |  Wed, Mar 17               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
 | 23 |  Thu, Mar 18               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
 | 24 |  Tue, Mar 23               | [You Had me at Hello](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
-| 25 |  Wed, Mar 24               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184)| 
-| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
+| 25 |  Wed, Mar 24               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184)|
+| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |  Blog Post 7 |
 | 27 |  Tue, Mar 30               | [Tackling the Essay](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
 | -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
@@ -86,26 +86,26 @@ By the end of the course, you will be able to ...
 | 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 32 |  Wed, Apr 14               | [Gender in Tech](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
-| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
+| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 8 |
 | 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
 | 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 37 |  Tue, Apr 27               | [TBD] |
 | 38 |  Wed, Apr 28               | [TBD] |
-| 39 |  Thu, Apr 29               | [TBD] |
+| 39 |  Thu, Apr 29               | [TBD] |  Blog Post 9 |
 | 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
 | 41 |  Wed, May 5                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |
+| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 10 |
 | 43 |  Tue, May 11               | Final Submissions|
 
-## Assignment Schedule 
+## Assignment Schedule
 
 |                        Assignment                         | Date Assigned |   Due Date   |
 |:---------------------------------------------------------:|:-------------:|:------------:|
-| [Assignment 1: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  Tue, Feb 2  |  Tue, Feb 16 | 
+| [Assignment 1: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  Tue, Feb 2  |  Tue, Feb 16 |
 | [Assignment 2: Discussion](https://docs.google.com/document/d/1GKo1AsjJKJcFg3BbmUOu3JyytLrToU6xae9PmFuKg3o/edit?usp=sharing)|  Tue, Feb 23    |  Tue, March 2 |
 | [Assignment 3: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, March 2    |  Tue, March 16   |
-| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 20 (50% Draft); Tue, May 4 (Final Draft)  | 
+| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 20 (50% Draft); Tue, May 4 (Final Draft)  |
 
 
 ## Class Assignments
@@ -120,11 +120,11 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1a1zEGK7aI7XF5WCA--KaOXYAeZvBRuCBZ6Da2RHwjW8/edit#gid=0)
 
-Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm). 
+Complete your blog posts and post two comments by the end of class time on Thursday (2.30pm).
 
 Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them). Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
-We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/188wuJkFN1PYo4NWnn-rP-Z6uHIF5HT2NHS9fY1GqXpw/edit). 
+We will use Medium to write the blog posts. Here is the blog posts [rubric](https://docs.google.com/document/d/188wuJkFN1PYo4NWnn-rP-Z6uHIF5HT2NHS9fY1GqXpw/edit).
 
 ## Evaluation
 
@@ -139,9 +139,9 @@ To pass this course you must meet the following requirements:
 
 Make School nurtures attitudes and behaviors that promote global awareness, inclusivity, and respect for the dignity of each person regardless of race, ethnicity, gender, sexual orientation, age, socioeconomic status, culture, political conviction, religion, or disability. We are committed to creating an environment in which every individual can work, study, and live without feeling excluded, unsafe, or harassed.
 
-During classrooms discussions, you may encounter opposing and different views with your classmates, and that is totally fine. In fact, I welcome a diverse array of opinions. Part of a healthy discussion is being able to discuss those differences clearly and respectfully. Sometimes, you may think your classmates' questions are “stupid,” but they deserve the same level of respect from you as you wish from them. You can expect me to be fair, and I will not tolerate any hate speech (e.g. any attacks on another person's identity, background, life experiences) in class. If the need arises, I will respectfully ask you to leave the discussion/zoom room. 
+During classrooms discussions, you may encounter opposing and different views with your classmates, and that is totally fine. In fact, I welcome a diverse array of opinions. Part of a healthy discussion is being able to discuss those differences clearly and respectfully. Sometimes, you may think your classmates' questions are “stupid,” but they deserve the same level of respect from you as you wish from them. You can expect me to be fair, and I will not tolerate any hate speech (e.g. any attacks on another person's identity, background, life experiences) in class. If the need arises, I will respectfully ask you to leave the discussion/zoom room.
 
-Make School’s desire to foster a professional environment that honors the freedom of expression is equally balanced with pursuit to create an inclusive living and learning environment. 
+Make School’s desire to foster a professional environment that honors the freedom of expression is equally balanced with pursuit to create an inclusive living and learning environment.
 
 ## Make School Course Policies
 
