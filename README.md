@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|:------------------------------------:|
 |  - |  Tue, Jan 19               | **No Class - MLK Day** |
 |  1 |  Wed, Jan 20               | [Intro](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) |
-|  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | Blog Post 1 |
+|  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | [Blog Post 1](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.g91ba2c10cc_0_18) |
 |  3 |  Tue, Jan 26               | [Why Do We Communicate?](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) | Blog Post 2 |
@@ -120,7 +120,7 @@ Your Gradescope login is your Make School email, and your password can be change
 
 2. [Blog Post Tracker](https://docs.google.com/spreadsheets/d/1a1zEGK7aI7XF5WCA--KaOXYAeZvBRuCBZ6Da2RHwjW8/edit#gid=0)
 
-Complete your blog posts and post two comments by the end of class time on Thursday (1.45pm).
+Complete your blog posts and post one comment by the end of class time on Thursday (1.45pm, PST).
 
 Update your url links to your blog posts and comment on the **blog post tracker**(where your classmates can access your blog posts to comment on them) and on **Gradescope** (where I can grade them). Please be careful while updating your links on the tracker as to not move/edit/change your other classmates' entry.
 
