@@ -107,10 +107,12 @@ By the end of the course, you will be able to ...
 | [Assignment 3: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, March 2    |  Tue, March 16   |
 | [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 20 (50% Draft); Tue, May 4 (Final Draft)  |
 
+**Thursday, May 13, 5.00pm PST is the final day to submit all late assignments for the semester
+
 
 ## Class Assignments
 
-1. [Gradescope](gradescope.com)
+1. [Gradescope](https://www.gradescope.com/courses/209338)
 
 All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
 
