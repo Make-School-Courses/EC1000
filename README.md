@@ -12,19 +12,21 @@
 
 This course provides essential training in analyzing and creating poly-modal forms of written, oral, digital, and visual communication. You will learn to effectively critique communicative works and to engage the process of drafting, feedback, and revision in order to produce their own well-designed, carefully researched written texts, oral presentations, and visual communications (including the digital portfolio and an academic essay) for different potential audiences. Emphasizing the conventions of reflective and critical modes of writing and speaking, this course prepares you for communicative success in their college careers and beyond.
 
-**Course Specifics*
+## Course Specifics
 
-Zoom link: make.sc/regina-zoom
+**Class Zoom Link**: make.sc/regina-zoom
+
+**Slack Channel**: Section A: #creativewriting1-spring-2021; Section B: #creativewriting2-spring2021
 
 This platform will be used for Q&As during check-in activities and burning questions your classmates can help clarify, e.g., “Where is the teaching slides?” or “What time is class again?”
 
-My Personal Slack: @reginayoong
+**My Personal Slack**: @reginayoong
 
 If you have questions your classmates and TA (@Lauren Dutton) have no answers to, e.g., “Am I on track to pass the course?” and/or emergency requests, e.g., “I have to leave class because of a fire.” DM me on slack.
 
 You can expect a reply from me within 24-hours; Likewise, I expect a response from you within 24-hours if I messaged you about something important personally.
 
-My Email: regina@makeschool.com
+**My Email**: regina@makeschool.com
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
 
