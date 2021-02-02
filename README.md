@@ -55,7 +55,7 @@ By the end of the course, you will be able to ...
 |  2 |  Thu, Jan 21               | [What is Communications?](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.p) | [Blog Post 1](https://docs.google.com/presentation/d/1k4dMpWEBwO1uV2F7-qrwUlrBBe0lPaswywdpPv24_HY/edit#slide=id.g91ba2c10cc_0_18) |
 |  3 |  Tue, Jan 26               | [Why Do We Communicate?](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) |
 |  4 |  Wed, Jan 27               | [Walk the Talk](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_759) |
-|  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) | Blog Post 2 |
+|  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) | [Blog Post 2](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_499) |
 |  6 |  Tue, Feb 2                | [A Picture Paints a Thousand Words](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
 |  7 |  Wed, Feb 3                | [What You See is What You Get (or not)](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
 |  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |  Blog Post 3 |
@@ -92,7 +92,7 @@ By the end of the course, you will be able to ...
 | 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
 | 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
-| 37 |  Tue, Apr 27               | [TBD] |
+| 37 |  Tue, Apr 27               | [Peer Reviews] |
 | 38 |  Wed, Apr 28               | [TBD] |
 | 39 |  Thu, Apr 29               | [TBD] |  Blog Post 9 |
 | 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
@@ -107,7 +107,7 @@ By the end of the course, you will be able to ...
 | [Assignment 1: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  Tue, Feb 2  |  Tue, Feb 16 |
 | [Assignment 2: Discussion](https://docs.google.com/document/d/1GKo1AsjJKJcFg3BbmUOu3JyytLrToU6xae9PmFuKg3o/edit?usp=sharing)|  Tue, Feb 23    |  Tue, March 2 |
 | [Assignment 3: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, March 2    |  Tue, March 16   |
-| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 20 (50% Draft); Tue, May 4 (Final Draft)  |
+| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 27 (50% Draft); Tue, May 4 (Final Draft)  |
 
 **Thursday, May 13, 5.00pm PST is the final day to submit all late assignments for the semester
 
