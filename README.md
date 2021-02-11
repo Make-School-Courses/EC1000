@@ -58,10 +58,10 @@ By the end of the course, you will be able to ...
 |  5 |  Thu, Jan 28               | [Covid & Communications](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_435) | [Blog Post 2](https://docs.google.com/presentation/d/1xEi_SS-mARkeR6EuRgL-lSVUgIT-3f2lTZhs7NSHkeE/edit#slide=id.gb4af0ce5c7_0_499) |
 |  6 |  Tue, Feb 2                | [A Picture Paints a Thousand Words](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
 |  7 |  Wed, Feb 3                | [What You See is What You Get (or not)](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |
-|  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |  Blog Post 3 |
+|  8 |  Thu, Feb 4                | [Empathy](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_244) |  [Blog Post 3](https://docs.google.com/presentation/d/1M0wancPOSdtmx-ShEBpSBzOwYRLPrQgId2Q4ul9Unl0/edit#slide=id.gb4bfb84741_0_359) |
 |  9 |  Tue, Feb 9                | [Who am I?](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
 | 10 |  Wed, Feb 10               | [Us vs Them](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |
-| 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |  Blog Post 4 |
+| 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |  [Blog Post 4](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit#slide=id.gaadb724493_0_142) |
 | 12 |  Tue, Feb 16               | [Job Interview Prep I](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
 | 13 |  Wed, Feb 17               | [Job Interview Prep II](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
 | 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |  Blog Post 5 |
