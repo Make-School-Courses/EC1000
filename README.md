@@ -64,10 +64,10 @@ By the end of the course, you will be able to ...
 | 11 |  Thu, Feb 11               | [Tell Your Story](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit?usp=sharing) |  [Blog Post 4](https://docs.google.com/presentation/d/1RklxBvkMhkkSABpR6ia6N1PSUQzNRI47gtuJKNY_WwQ/edit#slide=id.gaadb724493_0_142) |
 | 12 |  Tue, Feb 16               | [Job Interview Prep I](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
 | 13 |  Wed, Feb 17               | [Job Interview Prep II](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |
-| 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |  Blog Post 5 |
-| 15 |  Tue, Feb 23               | [Class & Race in Tech](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
-| 16 |  Wed, Feb 24               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293)  |
-| 17 |  Thu, Feb 25               | [Class & Race in Tech (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |  Blog Post 6 |
+| 14 |  Thu, Feb 18               | [Job Interview Prep III](https://docs.google.com/presentation/d/1cAq9nq6BbhCsqxn0FsUiZEFKlMA_rgXf8whc2wy__0c/edit?usp=sharing) |  Mock Interview Recording |
+| 15 |  Tue, Feb 23               | [Ethos,Pathos, Logos](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_293) |
+| 16 |  Wed, Feb 24               | [Ethos,Pathos, Logos (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gb4cb5604c2_0_978)  |
+| 17 |  Thu, Feb 25               | [Ethos,Pathos, Logos (cont.)](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gc06ee32e14_0_8) |  [Blog Post 5](https://docs.google.com/presentation/d/1YPvIzgudvYZhYcHr4J36kKcYfHBlj5njfmPYhVl_3Vk/edit#slide=id.gc0804bc620_0_49) |
 | 18 |  Tue, Mar 2                | [Varying Perspectives](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
 | 19 |  Wed, Mar 3                | [Pitch Perfect](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
 | 20 |  Thu, Mar 4                | [Pitch Perfect II](https://docs.google.com/presentation/d/1joGEkGWYdpKAoo1Hv1bbH7uafazD9Oqef5uvkI_DaTQ/edit#slide=id.gb48b1ad68b_0_512) |
@@ -79,7 +79,7 @@ By the end of the course, you will be able to ...
 | 23 |  Thu, Mar 18               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
 | 24 |  Tue, Mar 23               | [You Had me at Hello](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
 | 25 |  Wed, Mar 24               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184)|
-| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |  Blog Post 7 |
+| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |  Blog Post 6 |
 | 27 |  Tue, Mar 30               | [Tackling the Essay](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
 | -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
@@ -88,16 +88,16 @@ By the end of the course, you will be able to ...
 | 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 32 |  Wed, Apr 14               | [Gender in Tech](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
-| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 8 |
+| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 7 |
 | 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
 | 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 37 |  Tue, Apr 27               | [Peer Reviews] |
 | 38 |  Wed, Apr 28               | [TBD] |
-| 39 |  Thu, Apr 29               | [TBD] |  Blog Post 9 |
+| 39 |  Thu, Apr 29               | [TBD] |  Blog Post 8 |
 | 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
 | 41 |  Wed, May 5                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 10 |
+| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 9 |
 | 43 |  Tue, May 11               | Final Submissions|
 
 ## Assignment Schedule
