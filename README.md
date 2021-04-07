@@ -30,7 +30,7 @@ You can expect a reply from me within 24-hours; Likewise, I expect a response fr
 
 Email me regarding late submissions requests and/or explanations of extenuating circumstances.
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours.
+**Course Credits**: 4 units | 37.5 Seat Hours | 75 Total Hours.
 
 ## Learning Outcomes
 
@@ -79,13 +79,13 @@ By the end of the course, you will be able to ...
 | 23 |  Thu, Mar 18               | [The Art of Persuasion (cont.)](https://docs.google.com/presentation/d/1M_n4No1AvQqWMBP4mNluBc6uAfi-K8CcTWfB5wo7bR8/edit#slide=id.gb4c2cedd9e_0_77) |
 | 24 |  Tue, Mar 23               | [You Had me at Hello](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |
 | 25 |  Wed, Mar 24               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184)|
-| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |  Blog Post 6 |
+| 26 |  Thu, Mar 25               | [You Had me at Hello (cont.)](https://docs.google.com/presentation/d/1lRQHDBP207Rod-p0AopoLkO6bnblaLy-NXkHLC-S6MY/edit#slide=id.gb49fc0a717_0_184) |  
 | 27 |  Tue, Mar 30               | [Tackling the Essay](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
 | -  |  Wed, Mar 31               |  **No Class - Cesar Chavez**  |
 | -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
 | 28 |  Tue, Apr 6                | [I Say, They Say](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89)  |
-| 29 |  Wed, Apr 7                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
-| 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) |
+| 29 |  Wed, Apr 7                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gc7f8506ce0_1_14) |
+| 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) | Blog Post 6 |
 | 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 32 |  Wed, Apr 14               | [Gender in Tech](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 7 |
