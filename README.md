@@ -87,8 +87,8 @@ By the end of the course, you will be able to ...
 | 29 |  Wed, Apr 7                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gc7f8506ce0_1_14) |
 | 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) | Blog Post 6 |
 | 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
-| 32 |  Wed, Apr 14               | [Gender in Tech](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
-| 33 |  Thu, Apr 15               | [Gender in Tech (cont.)](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 7 |
+| 32 |  Wed, Apr 14               | [Difficult Conversations I](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
+| 33 |  Thu, Apr 15               | [Difficult Conversations II](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 7 |
 | 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
 | 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
@@ -98,7 +98,7 @@ By the end of the course, you will be able to ...
 | 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
 | 41 |  Wed, May 5                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
 | 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 9 |
-| 43 |  Tue, May 11               | Final Submissions|
+| 43 |  Tue, May 11               | Essay Submission|
 
 ## Assignment Schedule
 
