@@ -92,12 +92,12 @@ By the end of the course, you will be able to ...
 | 34 |  Tue, Apr 20               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit) |
 | 35 |  Wed, Apr 21               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
 | 36 |  Thu, Apr 22               | [Individual Conference with Instructor](https://docs.google.com/presentation/d/1UcDXLBvey2BAUUZs3xKlw9CAfOdjSpggQ5uAWVRDo6o/edit)  |
-| 37 |  Tue, Apr 27               | [Peer Reviews] |
-| 38 |  Wed, Apr 28               | [TBD] |
-| 39 |  Thu, Apr 29               | [TBD] |  Blog Post 8 |
-| 40 |  Tue, May 4                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 41 |  Wed, May 5                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 42 |  Thu, May 6                | [All's Well that Ends Well](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 9 |
+| 37 |  Tue, Apr 27               | [Peer Reviews](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 38 |  Wed, Apr 28               | [Attend "Looking Beyond Big Tech" Apr 27 6-7pm, PST @ make.sc/caseys-zoom](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gd55570ab79_0_10) |
+| 39 |  Thu, Apr 29               | [TBD] |
+| 40 |  Tue, May 4                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 41 |  Wed, May 5                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
+| 42 |  Thu, May 6                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 8 |
 | 43 |  Tue, May 11               | Essay Submission|
 
 ## Assignment Schedule
@@ -107,7 +107,7 @@ By the end of the course, you will be able to ...
 | [Assignment 1: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  Tue, Feb 2  |  Tue, Feb 16 |
 | [Assignment 2: Discussion](https://docs.google.com/document/d/1GKo1AsjJKJcFg3BbmUOu3JyytLrToU6xae9PmFuKg3o/edit?usp=sharing)|  Tue, Feb 23    |  Tue, March 2 |
 | [Assignment 3: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, March 2    |  Tue, March 16   |
-| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 27 (50% Draft); Tue, May 4 (Final Draft)  |
+| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 27 (50% Draft); Tue, May 11 (Final Draft)  |
 
 **Thursday, May 13, 5.00pm PST is the final day to submit all late assignments for the semester
 
