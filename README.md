@@ -85,7 +85,7 @@ By the end of the course, you will be able to ...
 | -  |  Thu, Apr 1                |  **No Class - Cesar Chavez**  |
 | 28 |  Tue, Apr 6                | [I Say, They Say](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89)  |
 | 29 |  Wed, Apr 7                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gc7f8506ce0_1_14) |
-| 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) | Blog Post 6 |
+| 30 |  Thu, Apr 8                | [I Say, They Say (cont.)](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gb4c5f364cd_0_89) | [Blog Post 6](https://docs.google.com/presentation/d/13-Q6We3vfbloxzBnJ2wK5UskJVQ2nyyGbz-0ikMKRjk/edit#slide=id.gcc566d59dd_0_0) |
 | 31 |  Tue, Apr 13               | [Peer Reviews](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 32 |  Wed, Apr 14               | [Difficult Conversations I](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |
 | 33 |  Thu, Apr 15               | [Difficult Conversations II](https://docs.google.com/presentation/d/1OI6crYgDTNaNLw02PJ-x6nLmC9mPlfGl5xBn-NSuGgE/edit#slide=id.gb4a8bd1173_0_650) |  Blog Post 7 |
@@ -97,8 +97,10 @@ By the end of the course, you will be able to ...
 | 39 |  Thu, Apr 29               | [TBD] |
 | 40 |  Tue, May 4                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
 | 41 |  Wed, May 5                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760) |
-| 42 |  Thu, May 6                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  Blog Post 8 |
-| 43 |  Tue, May 11               | Essay Submission|
+| 42 |  Thu, May 6                | [The Future of Communication](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gab7fd64c7b_0_760)  |  [Blog Post 7](https://docs.google.com/presentation/d/1jEvKRMaSe5o7xsEf5fY2TO_IyorMVCMOhDd5qp0Wk_E/edit#slide=id.gd6fcc14837_0_183) |
+| 43 |  Tue, May 11               | Recap, End of Term Survey|
+| 43 |  Wed, May 12               | Essay Submission|
+
 
 ## Assignment Schedule
 
@@ -107,7 +109,7 @@ By the end of the course, you will be able to ...
 | [Assignment 1: Analysis](https://docs.google.com/document/d/1Z3ZeG3QwilZ1dq03CSM1Jk2YmGznzb_frwqWd8fx7Iw/edit?usp=sharing)|  Tue, Feb 2  |  Tue, Feb 16 |
 | [Assignment 2: Discussion](https://docs.google.com/document/d/1GKo1AsjJKJcFg3BbmUOu3JyytLrToU6xae9PmFuKg3o/edit?usp=sharing)|  Tue, Feb 23    |  Tue, March 2 |
 | [Assignment 3: Pitch](https://docs.google.com/document/d/19bDKk5vGRzZzcKSanTjE4unrEUGpzHd6BqTYhu_I34g/edit?usp=sharing)|  Tue, March 2    |  Tue, March 16   |
-| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 27 (50% Draft); Tue, May 11 (Final Draft)  |
+| [Assignment 4: Essay](https://docs.google.com/document/d/1zuCMYolYgftRbYvGso0tbprFjwxudSNnbC7c5I-7LB0/edit?usp=sharing)|  Tue, Apr 13    |  Tue, Apr 27 (50% Draft); Wed, May 12 (Final Draft)  |
 
 **Thursday, May 13, 5.00pm PST is the final day to submit all late assignments for the semester
 
